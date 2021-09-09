@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @siavashprh
-- 👀 I’m interested in Game Development mostly, although ML and DL are interesting topics for me.
-- 🌱 I’m currently learning C++, C#, Unity, and Python. Hopefully I'll be taking some machine learning courses in the near future.
+- 👀 I'm a CS Student mostly interested in data science. I also have a personal passion for game development.
+- 🌱 I’m currently learning Machine Learning and Deep Learning, also Unreal Engine. 
 - 💞️ I’m looking to collaborate on (I don't have anything going on at the moment.)
-- 📫 How to reach me: siavash.prh@gmail.com, @siavashprh on Instagram, @siavash4real on Twitter.
+- 📫 How to reach me: siavash.prh@gmail.com
 
 <!---
 siavashprh/siavashprh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
