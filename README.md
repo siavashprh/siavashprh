@@ -3,13 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siavashprh&label=Profile%20views&color=0e75b6&style=flat" alt="siavashprh" /> </p>
 
-- 🌱 I’m currently learning **GNNs and the application of GNNs in bioinformatics**
+- 🏫 I'm currently a bachelor's student in Computer Science at **Amirkabir University of Technology (Tehran Polytechnic)**
+
+- 🌱 I’m currently learning about **Transformer models and their applications in biological data analysis**
 
 - 👯 I’m looking to collaborate on **bioinformatics and computational biology projects**
 
 - 📫 How to reach me **siavash.prh@gmail.com**
 
-- ⚡ Fun fact **I have an interest in game development as a hobby.**
+- ⚡ I'm currently working on a project involving **prediction of intrinsically disordered proteins using pretrained language models** at the **CBRC** lab at **AUT**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
