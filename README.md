@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Siavash Pourfallah</h1>
-<h3 align="center">computer science student at Amirkabir University of Technology</h3>
+<h3 align="center">Computer Science BSc at Amirkabir University of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siavashprh&label=Profile%20views&color=0e75b6&style=flat" alt="siavashprh" /> </p>
 
-- 🏫 I'm currently a bachelor's student in Computer Science at **Amirkabir University of Technology (Tehran Polytechnic)**
+- 🏫 I'm a bachelor's graduate in Computer Science at **Amirkabir University of Technology (Tehran Polytechnic)**
 
 - 🌱 I’m currently learning about **Transformer models and their applications in biological data analysis**
 
-- 👯 I’m looking to collaborate on **bioinformatics and computational biology projects**
+- 👯 I’m looking to collaborate on **Machine Learning, Natural Language Processing, Computational Biology Projects**
 
-- 📫 How to reach me **siavash.prh@gmail.com**
+- 📫 You can reach me through my email **siavash.prh@gmail.com**
 
 - ⚡ I'm currently working on a project involving **prediction of intrinsically disordered proteins using pretrained language models** at the **CBRC** lab at **AUT**
  
