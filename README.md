@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siavash Pourfallah</h1>
-<h3 align="center">Computer Science BSc at Amirkabir University of Technology</h3>
+<h3 align="center">Computer Science MSc at KU Leuven</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siavashprh&label=Profile%20views&color=0e75b6&style=flat" alt="siavashprh" /> </p>
 
-- 🏫 I'm a bachelor's graduate in Computer Science at **Amirkabir University of Technology (Tehran Polytechnic)**
+- 🏫 I'm currently undergoing my master's studies at **KU Leuven, Belgium**
 
 - 🌱 I’m currently learning about **Transformer models and their applications in biological data analysis**
 
